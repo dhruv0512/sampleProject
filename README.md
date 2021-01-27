@@ -1,4 +1,4 @@
 # sampleProject
 
-#Hello World
-#This is a Sample Project
+# Hello World
+# This is a Sample Project
